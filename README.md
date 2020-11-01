@@ -1,4 +1,4 @@
-# @win/messagebox
+# basic-messagebox
 use basic message box in your projects to alert yourself.
 basic usage:
 ```

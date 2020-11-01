@@ -1,0 +1,26 @@
+{
+  "name": "messagebox",
+  "version": "1.0.0",
+  "description": "use message box in your projects.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node-gyp rebuild"
+  },
+  "author": "usercybe",
+  "license": "ISC",
+  "gypfile": true,
+  "devDependencies": {
+    "node-gyp": "^7.1.2"
+  },
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "node-addon-api": "^3.0.2"
+  },
+  "keywords": [
+    "messagebox",
+    "message",
+    "box",
+    "msgbox"
+  ]
+}

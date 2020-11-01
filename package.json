@@ -1,5 +1,5 @@
 {
-  "name": "messagebox",
+  "name": "@win/messagebox",
   "version": "1.0.0",
   "description": "use message box in your projects.",
   "main": "main.js",
